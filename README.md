@@ -7,7 +7,7 @@ Just a small bit of code I made to smooth out windows changing the gamebar captu
 #### 3. Enter `shell:startup` (or `shell:common startup` to apply to all profiles)
 #### 4. Paste it into the `Startup` folder.
 
-Two small things you will want to change:
+# Two small things you will want to change:
 ### 1. Captures folder directory
 You will want to change the `captures_folder` variable in `move_captures.py` to whatever your folder is.
 
