@@ -14,5 +14,6 @@ You will want to change the `captures_folder` variable in `move_captures.py` to 
 ### 2. Hotkey
 You will probably also want to change the hotkey in `capture.ahk`(default: `Alt + S`) to whatever your screen capture hotkey is, assuming it's something besides the default.
 
-You will do this by changing the value before the :: (see comments in script) to whatever your keybind, in accordance with autohotkey's key value rules. https://www.autohotkey.com/docs/Hotkeys.htm          <-- list of key prefixes
+You will do this by changing the value before the :: (see comments in script) to whatever your keybind, in accordance with autohotkey's key value rules. 
+https://www.autohotkey.com/docs/Hotkeys.htm          <-- list of key prefixes
 https://www.autohotkey.com/docs/KeyList.htm#general  <-- list of general keys
